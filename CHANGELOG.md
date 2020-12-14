@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.113
+## (2020-12-14)
+
+* Fix red leds not showing for failed devices [Alexis Svinartchouk]
+* docs: add documentation links [Aaron Shaw]
+* docs: update macOS version [Aaron Shaw]
+* Improve hover message when the drive is too small [Alexis Svinartchouk]
+* Update electron to v9.4.0 [Alexis Svinartchouk]
+* Update npm to v6.14.8 [Giovanni Garufi]
+* Update rgb leds colors [Alexis Svinartchouk]
+* Remove unmountOnSuccess setting [Alexis Svinartchouk]
+* Only show auto-updates setting on supported targets [Alexis Svinartchouk]
+* Remove dead code in settings modal [Alexis Svinartchouk]
+* Fix effective flashing speed calculation for compressed images [Alexis Svinartchouk]
+* Change some border colors to have higher contrast [Lorenzo Alberto Maria Ambrosi]
+* Update etcher-sdk from 5.1.10 to 5.1.11 [Alexis Svinartchouk]
+* Update sys-class-rgb-led from 2.1.1 to 3.0.0 [Alexis Svinartchouk]
+
 # v1.5.112
 ## (2020-12-02)
 
